@@ -1,0 +1,1 @@
+Python3 package that wraps Kraken API calls in an interactable model
